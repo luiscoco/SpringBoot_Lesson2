@@ -1,4 +1,4 @@
-# SpringBoot_Lesson1_Sample2
+# SpringBoot_Lesson2
 
 ## Propmt for the Code Agent (Codex, Gemini Code Assistant or Copilot)
 
