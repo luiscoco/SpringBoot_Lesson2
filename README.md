@@ -1,5 +1,7 @@
 # SpringBoot_Lesson2
 
+https://www.youtube.com/watch?v=HWs_1BigT1E&t=5s
+
 ## Propmt for the Code Agent (Codex, Gemini Code Assistant or Copilot)
 
 **Context**:
